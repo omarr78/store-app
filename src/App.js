@@ -1,7 +1,6 @@
 
 import 'bootstrap/dist/css/bootstrap.css';
 import 'bootstrap/dist/js/bootstrap.js';
-import { Component } from 'react';
 import { Routes, Route } from "react-router-dom";
 
 import Productlist from "./component/Productlist";
